@@ -1,6 +1,6 @@
 baseURL = "https://american-wedding.web.app/"
 languageCode = "en-us"
-title = "Best Wedding"
+title = "American Wedding"
 theme = "z"
 
 [taxonomies]
